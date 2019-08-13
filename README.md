@@ -1,0 +1,2 @@
+# OpenBanking
+Entersekt OpenBanking
